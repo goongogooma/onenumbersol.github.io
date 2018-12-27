@@ -4,29 +4,29 @@ title: About me
 subtitle:
 ---
 
-
+  
 - Lee Hansol
 - 1993/09/20
 - Female
-
+  
 #### Experience
 
 - 2015/11/01 - 2018/02/28
 
--- Incheon National University Database LAB, Yeonsu-Gu, Incheon, 
--- Database Researcher and Education assistance
--- I taught my undergraduate students database basics. And Participated in national research projects.
--- Disaster Crisis System based on GeoSpatial utilizing Big-data Analysis
--- Development of a standardized platform of IoT-based water resources measurement data
--- Study of advance operation and maintenance (O&M) technology for smart water grid (SWG) facility
+-- Incheon National University Database LAB, Yeonsu-Gu, Incheon  
+-- Database Researcher and Education assistance  
+-- I taught my undergraduate students database basics. And Participated in national research projects  
+-- Disaster Crisis System based on GeoSpatial utilizing Big-data Analysis  
+-- Development of a standardized platform of IoT-based water resources measurement data  
+-- Study of advance operation and maintenance (O&M) technology for smart water grid (SWG) facility  
 
 - 2016/03/02 - 2016/11/01
 
--- Library, Yeonsu-Gu, Incheon, Librarian Assistant
+-- Library, Yeonsu-Gu, Incheon, Librarian Assistant  
 
 - 2012/03/02 - 2013/03/02
 
--- Popeyes, Yeonsu-Gu, Incheon, Cashier
+-- Popeyes, Yeonsu-Gu, Incheon, Cashier  
 
 #### Education
 
