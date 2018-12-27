@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Game: "game"
   Project:
-    - GitHub Pages: "https://github.com/onenumbersol"
+    - GitHub: "https://github.com/onenumbersol"
     - Naver Blog: "https://blog.naver.com/sol_dream"
     - SSAFY: "https://github.com/onenumbersol/SSAFY"
 
