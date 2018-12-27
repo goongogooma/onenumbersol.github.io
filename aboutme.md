@@ -7,9 +7,9 @@ subtitle:
   
 - Lee Hansol
 - 1993/09/20
-- Female
+- Female  
   
-#### Experience
+#### Experience  
 
 - 2015/11/01 - 2018/02/28
 
