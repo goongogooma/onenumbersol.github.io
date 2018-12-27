@@ -1,13 +1,14 @@
 ---
 layout: post
 title: SSAFY_2주차_나만의 챗봇
-subtitle: SSAFY_9반_이한솔_https://github.com/onenumbersol/SSAFY/blob/master/2018_12_21_chatbot
+subtitle: Slack ChatBot
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [SSAFY]
 comments: true
 ---
 
+ SSAFY_9반_이한솔_https://github.com/onenumbersol/SSAFY/blob/master/2018_12_21_chatbot
  SSAFY 2주차 과제로 Python을 활용한 나만의 챗봇을 만들었다. 나는 조성우, 황유성과 함께 LOL Chat Bot을 만들었다.
  
 ---
